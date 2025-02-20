@@ -1,0 +1,38 @@
+summary{
+        background-color: bisque;
+      }  
+   
+      #name{
+        border: 3px solid gray;
+        text-align: center;
+        font-size: 30px;
+      }
+
+      label, p{
+        font-weight: bold;
+        color: floralwhite;
+      }
+      .row{
+        display: flex;
+      }
+      #ticket{
+        width: 500px;
+        height: 500px;
+      }
+      button{
+        font-family: Tahoma;
+      }
+      body{
+        background-image: url('Background copy.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+
+      }
+      hr{
+        color: white;
+      }
+
+      h1{
+
+        class: w3-container w3-cursive:;
+      }
